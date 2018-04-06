@@ -4,3 +4,10 @@ return {
     payload : book
     }
 }
+
+// export default function addBook(newBook) {
+//     return {
+//         type : 'ADD_BOOK',
+//         payload : data
+//     }
+// }
